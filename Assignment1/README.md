@@ -65,7 +65,7 @@ The main focus of the tasks is both theoretical analysis and practical implement
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/SBU_Machine_Learning_Assignment_1.git
+   git clone https://github.com/katayoun-kobraei/SBU_Machine_Learning_Assignment_1.git
    ```
 
 2. Navigate to the project directory:
