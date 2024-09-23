@@ -37,7 +37,7 @@ To run the code in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/SBU_Machine_Learning_Course_2023.git
+   git clone https://github.com/katayoun-kobraei/SBU_Machine_Learning_Course_2023.git
    ```
    
 2. Navigate to the project directory:
